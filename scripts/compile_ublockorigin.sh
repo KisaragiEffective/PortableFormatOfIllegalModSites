@@ -12,7 +12,7 @@ fi
 
 out_dir="$(dirname "$0")/../dist/minecraft"
 
-[ ! -d "$out_dir" ] && mkdir "$out_dir"
+[ ! -d "$out_dir" ] && mkdir -p "$out_dir"
 
 dist="$out_dir/ublockorigin.txt"
 if [ -f "$dist" ]; then
