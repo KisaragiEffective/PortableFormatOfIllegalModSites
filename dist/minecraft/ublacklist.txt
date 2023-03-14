@@ -1,6 +1,7 @@
 # This blacklist is powered by https://github.com/KisaragiEffective/PortableFormatOfIllegalModSites/
-# Generated-Date: 2023-03-14T09:12:29Z
-# Git-Commit: 6c2a67c1c939b2bc36d8e3af00f49ed16fb905c3
+# Generated-Date: 2023-03-14T09:20:45Z
+# Git-Commit: 07f58420a6481fbc939d47bfa508c6378f4d9746
+# Git-Commit-Upstream: c22e9cadc5531b923a505702e3b4fa583beccb15
 # SPDX-License-Identifier: CC-BY-SA-4.0
 # Please see above GitHub repository for more information about license.
 *://0x10c-zone.ru/*
