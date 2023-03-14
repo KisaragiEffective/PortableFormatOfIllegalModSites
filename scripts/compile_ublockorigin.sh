@@ -28,7 +28,7 @@ intermediate="$(dirname "$0")/../intermediate"
 output "! This blacklist is powered by https://github.com/KisaragiEffective/PortableFormatOfIllegalModSites/"
 output "! Generated-Date: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
 output "! Git-Commit: $(git rev-parse HEAD)"
-output "# Git-Commit-Upstream: $(cat "$intermediate/upstream-commit.txt")"
+output "! Git-Commit-Upstream: $(cat "$intermediate/upstream-commit.txt")"
 output "! SPDX-License-Identifier: CC-BY-SA-4.0"
 output "! Please see above GitHub repository for more information about license."
 
