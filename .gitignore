@@ -2,3 +2,4 @@
 *.iml
 .DS_Store
 intermediate/intermediate.json
+intermediate/upstream-commit.txt
