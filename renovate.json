@@ -1,5 +1,5 @@
 {
-  "extends": ["renovate:base"],
+  "extends": ["config:base"],
   "git-submodules": {
     "enabled": true
   }
