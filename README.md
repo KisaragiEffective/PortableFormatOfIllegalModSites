@@ -15,7 +15,7 @@ Alternatively, you can compile:
 2. Grub [`exclude_entry_compiler`](https://github.com/KisaragiEffective/exclude_entry_compiler)
 3. Choice your target.
   * `compile_ublacklist.sh` - create block rules for ublacklist.
-  * `compile_ublacklist_google.sh` - create block rules for ublacklist. only effective on google search sites.
+  * `compile_ublacklist_google.sh` - create block rules for ublacklist. only effective on Google search sites.
   * `compile_ublockorigin.sh`
 
 ## license
