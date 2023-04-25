@@ -1,9 +1,8 @@
-# This blacklist is powered by https://github.com/KisaragiEffective/PortableFormatOfIllegalModSites/
-# Generated-Date: 2023-03-14T09:20:45Z
-# Git-Commit: 07f58420a6481fbc939d47bfa508c6378f4d9746
-# Git-Commit-Upstream: c22e9cadc5531b923a505702e3b4fa583beccb15
 # SPDX-License-Identifier: CC-BY-SA-4.0
-# Please see above GitHub repository for more information about license.
+# Generated-Date: 2023-04-24T21:51:14Z
+# Git-Commit: f9c44f66c13a3b918592e5731ff4564273017f11
+# Git-Commit-Upstream: c22e9cadc5531b923a505702e3b4fa583beccb15
+# Git-Repository: https://github.com/KisaragiEffective/PortableFormatOfIllegalModSites/
 *://0x10c-zone.ru/*
 *://10minecraft.ru/*
 *://123minecraft.com/*
@@ -59,6 +58,7 @@
 *://bnstbns.pro/*
 *://borealis.su/*
 *://c-raft.ru/*
+*://chip.de/downloads
 *://clubminecraftbr.blogspot.com/*
 *://comoinstalarmodsminecraft.com.br/*
 *://cooll.pp.ua/*
@@ -110,6 +110,7 @@
 *://fmcpe.com/*
 *://for-minecraft.com/*
 *://forminecrafters.ru/*
+*://fr-minecraft.net/mod-minecraft-
 *://free-mods.ru/*
 *://freedownloadminecraft.com/*
 *://freeminecraftmods.com/*
@@ -482,6 +483,8 @@
 *://q-craft.ru/*
 *://qoobworld.ru/*
 *://realmine.net/*
+*://reddit.com/r/modpiracy2
+*://reddit.com/r/modpiracy4
 *://redserver.su/*
 *://resource-pack.com/*
 *://resourcepack.info/*
@@ -564,7 +567,3 @@
 *://zonacraft.net/*
 *://майнкрафт18.рф/*
 *://майнкрафтин.рф/*
-*://chip.de/downloads
-*://fr-minecraft.net/mod-minecraft-
-*://reddit.com/r/modpiracy2
-*://reddit.com/r/modpiracy4
